@@ -1,6 +1,6 @@
 {
-    "name": "counter_app_using_bloc",
-    "short_name": "counter_app_using_bloc",
+    "name": "counter_app_bloc",
+    "short_name": "counter_app_bloc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

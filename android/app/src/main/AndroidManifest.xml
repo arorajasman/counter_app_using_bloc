@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="counter_app_using_bloc"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.counter_app_bloc">
+   <application
+        android:label="counter_app_bloc"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
